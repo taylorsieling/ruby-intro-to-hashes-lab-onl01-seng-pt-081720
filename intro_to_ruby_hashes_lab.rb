@@ -28,8 +28,8 @@ def monopoly_with_third_tier
 	    pieces: 4, 
 	    names: {
 	      reading_railroad: {},
-	      pennsylvania_railroad: {}
-	      b_and_o_railraod: {}
+	      pennsylvania_railroad: {},
+	      b_and_o_railraod: {},
 	      shortline: {}
 	    }, 
 	    rent_in_dollars: {
